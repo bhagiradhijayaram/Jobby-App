@@ -1,0 +1,8 @@
+.similar-job-item-container {
+  background-color: hsl(0, 0%, 13%);
+  color: #ffffff;
+  width: 320px;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 15px;
+}
